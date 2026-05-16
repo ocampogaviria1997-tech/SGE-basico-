@@ -165,30 +165,26 @@ Al iniciar, el programa muestra el menú principal:
 ```
   Seleccione una opción (1-4): 1
 
-  --- AGREGAR NUEVO ESTUDIANTE ---
-  Nombre    : Carlos
-  Apellido  : Rodríguez
-  Edad      : 20
-  Carrera   : Ingeniería de Sistemas
+--- AGREGAR NUEVO ESTUDIANTE ---
+  Nombre    : Jenifer
+  Apellido  : Ocampo
+  Edad      : 29
+  Carrera   : TIC
 
   [OK] Estudiante agregado exitosamente con ID: 1
 ```
 
 ### Ejemplo — Buscar por ID
 ```
-  Seleccione una opción (1-4): 3
+  Seleccione una opción (1-4): 1 
 
-  --- BUSCAR ESTUDIANTE POR ID ---
-  Ingrese el ID a buscar: 1
+--- AGREGAR NUEVO ESTUDIANTE ---
+  Nombre    : Migel     
+  Apellido  : Arias
+  Edad      : 30
+  Carrera   : TIC
 
-  [OK] Estudiante encontrado:
-  ------------------------------------------
-  ID       : 1
-  Nombre   : Carlos
-  Apellido : Rodríguez
-  Edad     : 20 años
-  Carrera  : Ingeniería de Sistemas
-  ------------------------------------------
+  [OK] Estudiante agregado exitosamente con ID: 2
 ```
 
 ### Validación de entradas
